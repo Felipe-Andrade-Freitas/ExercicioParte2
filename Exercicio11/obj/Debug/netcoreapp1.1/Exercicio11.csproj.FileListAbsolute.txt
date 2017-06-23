@@ -1,0 +1,8 @@
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\bin\Debug\netcoreapp1.1\Exercicio11.deps.json
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\bin\Debug\netcoreapp1.1\Exercicio11.runtimeconfig.json
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\bin\Debug\netcoreapp1.1\Exercicio11.runtimeconfig.dev.json
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\bin\Debug\netcoreapp1.1\Exercicio11.dll
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\bin\Debug\netcoreapp1.1\Exercicio11.pdb
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\obj\Debug\netcoreapp1.1\Exercicio11.AssemblyInfo.cs
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\obj\Debug\netcoreapp1.1\Exercicio11.dll
+c:\users\felip\documents\visual studio 2017\Projects\ExercicioParte2\Exercicio11\obj\Debug\netcoreapp1.1\Exercicio11.pdb
